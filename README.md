@@ -1,2 +1,5 @@
-# pykubachu
-Python meets Pikachu (and Kubernetes)
+# PyKubachu
+
+https://pykubachu.com
+
+![](pykubachu/images/pykubachu.png)
